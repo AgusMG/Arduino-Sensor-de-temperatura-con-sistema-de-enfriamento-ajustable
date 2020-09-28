@@ -14,4 +14,10 @@ Sensor de temperatura automático con sistema de enfriamiento (ventilador) ajust
 ### Objetivo del proyecto:
 Desarrollar un sensor de temperatura que cuando, gracias al integrado ULN2003APG, detecte una temperatura mayor a 27 grados centigrados, activando automaticamente el ventilador.
 
-![](images/Imagen%1%diagrama.png)
+#### Diagrama del circuito:
+![](Img/Imagen%201%20diagrama.png)
+
+#### Montaje:
+![](Img/Imagen%202%20foto.jpeg)
+
+![](Img/Imagen%203%20Foto.png)
